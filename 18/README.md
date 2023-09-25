@@ -7,3 +7,7 @@
 ## 1205observer.acf
 
 设置观察者
+
+## 1206motion.acf
+
+设置运动模式
