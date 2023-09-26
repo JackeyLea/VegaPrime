@@ -11,3 +11,7 @@
 ## 1206motion.acf
 
 设置运动模式
+
+## 1207Isector.acf
+
+碰撞检测
